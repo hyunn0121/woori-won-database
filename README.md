@@ -35,6 +35,7 @@ erDiagram
     BUDGET_REGION ||--o{ BUDGET_REGION_APPLY : receives
 
     PAYMENT_TRANSACTION ||--o| EXTERNAL_TELEGRAM_LOG : maps
+```
 
 ## 3. 주요 설계 의사결정
 
